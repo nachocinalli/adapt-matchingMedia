@@ -23,13 +23,13 @@
     {
       "text": "Pick option two",
       "_media": {
-        "mp4": "course/en/images/c-40.mp4",
+        "mp4": "course/en/video/c-40.mp4",
         "ogv": "",
-        "poster": "course/en/images/full-width.png",
+        "poster": "course/en/video/c-40.jpg",
         "cc": [
           {
-            "srclang": "en",
-            "src": "course/en/images/c-40.vtt"
+            "srclang": "",
+            "src": ""
           }
         ]
       },
@@ -51,13 +51,13 @@
     {
       "text": "Pick option three",
       "_media": {
-        "mp4": "course/en/images/c-40.mp4",
+        "mp4": "course/en/video/c-40.mp4",
         "ogv": "",
-        "poster": "course/en/images/full-width.png",
+        "poster": "course/en/video/c-40.jpg",
         "cc": [
           {
-            "srclang": "en",
-            "src": "course/en/images/c-40.vtt"
+            "srclang": "",
+            "src": ""
           }
         ]
       },
@@ -79,13 +79,13 @@
     {
       "text": "Pick option one",
       "_media": {
-        "mp4": "course/en/images/c-40.mp4",
+        "mp4": "course/en/video/c-40.mp4",
         "ogv": "",
-        "poster": "course/en/images/full-width.png",
+        "poster": "course/en/video/c-40.jpg",
         "cc": [
           {
-            "srclang": "en",
-            "src": "course/en/images/c-40.vtt"
+            "srclang": "",
+            "src": ""
           }
         ]
       },
