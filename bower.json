@@ -1,9 +1,9 @@
 {
-  "name": "adapt-matching-media",
+  "name": "adapt-matchingMedia",
   "version": "1.0.0",
   "framework": ">=5.14.0",
-  "homepage": "",
-  "bugs": "",
+  "homepage": "https://github.com/nachocinalli/adapt-matchingMedia",
+  "bugs": "https://github.com/nachocinalli/adapt-matchingMedia/issues",
   "component": "matchingMedia",
   "targetAttribute": "_matchingMedia",
   "displayName": "Matching Question Media",
