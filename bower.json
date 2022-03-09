@@ -1,7 +1,7 @@
 {
   "name": "adapt-matchingMedia",
-  "version": "1.0.0",
-  "framework": ">=5.14.0",
+  "version": "2.0.0",
+  "framework": ">=5.18.0",
   "homepage": "https://github.com/nachocinalli/adapt-matchingMedia",
   "bugs": "https://github.com/nachocinalli/adapt-matchingMedia/issues",
   "component": "matchingMedia",
@@ -10,7 +10,7 @@
   "description": "A question component that allows the learner to match the options to question items",
   "main": "/js/adapt-matchingMedia.js",
   "pluginDependencies": {
-    "adapt-contrib-matching": "^4.4.2"
+    "adapt-contrib-matching": "^6.0.0"
   },
   "keywords": ["adapt-plugin", "adapt-component"],
   "license": "GPL-3.0"
